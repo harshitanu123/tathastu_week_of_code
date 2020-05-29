@@ -17,4 +17,3 @@ vote.sort(key = lambda x : x[0], reverse = True )
 vote.sort(key = lambda x : x[1])
 
 print("The name of the candidate who won the election is", vote[-1][0])
-© 2020 GitHub, Inc.
